@@ -1,0 +1,2 @@
+C:\Users\Mi\source\repos\ksis5\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\ksis5\GettingStarted\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CoreCompileInputs.cache
