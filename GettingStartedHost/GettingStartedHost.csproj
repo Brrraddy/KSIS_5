@@ -53,5 +53,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GettingStartedLib\GettingStartedLib.csproj">
+      <Project>{9e29418e-62ee-4786-9b48-2b90ace96cd4}</Project>
+      <Name>GettingStartedLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
